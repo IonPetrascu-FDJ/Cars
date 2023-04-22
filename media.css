@@ -1,0 +1,23 @@
+@media (max-width:1260px){
+	.info__item{
+		padding:10px;
+	}
+	.info__title{
+		font-size: 16px;	
+	}
+	.info__text{
+		font-size: 14px;
+	}
+}
+
+@media(max-width:1080px){
+	.info__title{
+		letter-spacing: unset;
+	}
+	.service__desc__left{
+		padding-right: 20px;
+	}
+
+
+
+}
